@@ -24,5 +24,5 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/92jling/vpstool
 > 默认安装10.15.0。
 
 ```sh
-wget -N --no-check-certificate https://raw.githubusercontent.com/92jling/vpstools/main/install-node.sh && ./install-node.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/92jling/vpstools/main/install-node.sh && bash install-node.sh
 ```
