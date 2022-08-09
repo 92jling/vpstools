@@ -17,3 +17,10 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/92jling/vpstool
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/92jling/vpstools/main/root.sh && bash root.sh
 ```
+### 一键安装Node.js
+
+> 使用方式为： `./install-node.sh`，然后输入版本号，node.js版本查询
+>
+＞切记不需要加 sudo 执行!!!
+> 
+> 默认安装10.15.0。
