@@ -15,7 +15,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/92jling/vpstool
 > 获取VPS的root权限，随意更改root密码的一键脚本，已测试EUserv德鸡，Hax IPV6，甲骨文oracle、谷歌云gpc、IBM Linux one、亚马逊云azurz等
 
 ```sh
-wget -N --no-check-certificate https://raw.githubusercontent.com/92jling/vpstools/main/root.sh && bash root2.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/92jling/vpstools/main/root2.sh && bash root2.sh
 ```
 ### 一键安装Node.js
 
